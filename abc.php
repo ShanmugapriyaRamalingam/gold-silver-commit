@@ -25,7 +25,7 @@ function auth_constants(){
 */
 
 	define('USE_SSL', 0);
-
+define();
 /*
 | -----------------------------------------------------------------
 | LOGIN_PAGE
