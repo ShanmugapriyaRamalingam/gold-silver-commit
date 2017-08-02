@@ -11,7 +11,7 @@
 	        7  => 'http://example.com/news/article/2006/06/07/',
 	        13 => 'http://example.cjkjom/news/article/2006/06/13/',
 	        26 => 'http://examffgfple.com/news/article/2006/06/26/'
-	);
+	);gfgfgfgfg
 	//echo $this->calendar->generate(2006, 6, $data);
  ?>
 <body>
