@@ -16,7 +16,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 function auth_constants(){
 
 /*
-| --------------------gghghjhjh---------------------------------------------
+| -----------------------------------------------------------------
 | USE_SSL
 | -----------------------------------------------------------------
 | Set to 1 for standard SSL certificate.
