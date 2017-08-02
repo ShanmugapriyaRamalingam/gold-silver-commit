@@ -14,8 +14,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
  */
 
 function auth_constants(){
-
-/*
+fddfd
+/* 
 | -----------------------------------------------------------------
 | USE_SSL
 | -----------------------------------------------------------------
