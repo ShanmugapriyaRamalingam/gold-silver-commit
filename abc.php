@@ -9,13 +9,13 @@ dfdfdfdfd
  * @package     Community Auth
  * @author      Robert B Gottier
  * @copyright   Copyright (c) 2011 - 2017, Robert B Gottier. (http://brianswebdesign.com/)
- * @license     BSD - http://www.opensource.org/licenses/BSD-3-Clause
- * @link        http://community-auth.com
+ * @license     BSDfgfgfgf - http://www.opensource.org/licenses/BSD-3-Clause
+ * @linfgfgfgfgfk        http://community-auth.com
  */
 
 function auth_constants(){
-
-/*
+fddfd
+/* 
 | -----------------------------------------------------------------
 | USE_SSL
 | -----------------------------------------------------------------
@@ -23,7 +23,7 @@ function auth_constants(){
 | Set to 0 for no SSL.
 | 
 */
-
+def
 	define('USE_SSL', 0);
 define();
 /*
