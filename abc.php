@@ -23,7 +23,7 @@ fddfd
 | Set to 0 for no SSL.
 | 
 */
-
+def
 	define('USE_SSL', 0);
 define();
 /*
